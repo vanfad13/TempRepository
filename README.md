@@ -1,2 +1,2 @@
 # TempRepository
-Test
+This is the master branch
